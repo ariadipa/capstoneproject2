@@ -1,4 +1,5 @@
 # capstoneproject2
+Purwadhika - Capstone Project Module 2 - Data Science and Machine Learning
 
 Kepala Satuan Polisi The Boston Police Department (BPD) membutuhkan seorang konsultan data analyst untuk menganalisa seberapa optimal kinerja tim polisi BPD terhadap insiden yang terjadi di kota Boston, Massachusetts pada periode 14 Juni 2015 - 3 Sept 2018. Hasil analisa serta insight yang diberikan akan sangat berguna untuk mengoptimalkan kinerja polisi yang akan melakukan patroli dan yang akan bersiaga di tiap titik/lokasi yang (khususnya) memiliki tingkat kriminalitas tinggi. 
 
